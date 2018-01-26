@@ -12,6 +12,6 @@
         
         <Button Padding="20,10" x:Name="BtnHideIt" Margin="10,5" Content="Hide it" Click="BtnHideIt_Click"/>
         <Button Padding="20,10" x:Name="BtnHideMe" Margin="10,5" Content="隐藏自己" Click="BtnHideMe_Click"/>
-        <CheckBox Margin="12,10" IsChecked="True" Content="使用Win+Q" Click="CheckBox_Click"/>
+        <CheckBox Margin="12,10" IsChecked="True" Content="使用Win+Esc" Click="CheckBox_Click"/>
     </StackPanel>
 </Window>
